@@ -2,7 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
 import './registerServiceWorker'
-
+import './icons.js'
 import AuthenticationLayout from "./layouts/AuthenticationLayout.vue";
 import ErrorLayout from "./layouts/ErrorLayout.vue";
 import MainLayout from "./layouts/MainLayout.vue";
